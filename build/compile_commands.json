@@ -1,0 +1,57 @@
+[
+{
+  "directory": "/home/libo/slam_work/final_project/Binocular_VO_Final/build/src",
+  "command": "/usr/bin/g++  -DGFLAGS_IS_A_DLL=0 -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"x11\\\" -D_LINUX_ -Dmyslam_EXPORTS -I/usr/include/suitesparse -I/home/libo/slam_work/final_project/Binocular_VO_Final/include -isystem /usr/include/eigen3 -isystem /usr/include/opencv  -std=c++14 -Wall -g -std=c++14 -O0 -fopenmp -pthread -fPIC   -o CMakeFiles/myslam.dir/frame.cpp.o -c /home/libo/slam_work/final_project/Binocular_VO_Final/src/frame.cpp",
+  "file": "/home/libo/slam_work/final_project/Binocular_VO_Final/src/frame.cpp"
+},
+{
+  "directory": "/home/libo/slam_work/final_project/Binocular_VO_Final/build/src",
+  "command": "/usr/bin/g++  -DGFLAGS_IS_A_DLL=0 -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"x11\\\" -D_LINUX_ -Dmyslam_EXPORTS -I/usr/include/suitesparse -I/home/libo/slam_work/final_project/Binocular_VO_Final/include -isystem /usr/include/eigen3 -isystem /usr/include/opencv  -std=c++14 -Wall -g -std=c++14 -O0 -fopenmp -pthread -fPIC   -o CMakeFiles/myslam.dir/mappoint.cpp.o -c /home/libo/slam_work/final_project/Binocular_VO_Final/src/mappoint.cpp",
+  "file": "/home/libo/slam_work/final_project/Binocular_VO_Final/src/mappoint.cpp"
+},
+{
+  "directory": "/home/libo/slam_work/final_project/Binocular_VO_Final/build/src",
+  "command": "/usr/bin/g++  -DGFLAGS_IS_A_DLL=0 -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"x11\\\" -D_LINUX_ -Dmyslam_EXPORTS -I/usr/include/suitesparse -I/home/libo/slam_work/final_project/Binocular_VO_Final/include -isystem /usr/include/eigen3 -isystem /usr/include/opencv  -std=c++14 -Wall -g -std=c++14 -O0 -fopenmp -pthread -fPIC   -o CMakeFiles/myslam.dir/map.cpp.o -c /home/libo/slam_work/final_project/Binocular_VO_Final/src/map.cpp",
+  "file": "/home/libo/slam_work/final_project/Binocular_VO_Final/src/map.cpp"
+},
+{
+  "directory": "/home/libo/slam_work/final_project/Binocular_VO_Final/build/src",
+  "command": "/usr/bin/g++  -DGFLAGS_IS_A_DLL=0 -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"x11\\\" -D_LINUX_ -Dmyslam_EXPORTS -I/usr/include/suitesparse -I/home/libo/slam_work/final_project/Binocular_VO_Final/include -isystem /usr/include/eigen3 -isystem /usr/include/opencv  -std=c++14 -Wall -g -std=c++14 -O0 -fopenmp -pthread -fPIC   -o CMakeFiles/myslam.dir/camera.cpp.o -c /home/libo/slam_work/final_project/Binocular_VO_Final/src/camera.cpp",
+  "file": "/home/libo/slam_work/final_project/Binocular_VO_Final/src/camera.cpp"
+},
+{
+  "directory": "/home/libo/slam_work/final_project/Binocular_VO_Final/build/src",
+  "command": "/usr/bin/g++  -DGFLAGS_IS_A_DLL=0 -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"x11\\\" -D_LINUX_ -Dmyslam_EXPORTS -I/usr/include/suitesparse -I/home/libo/slam_work/final_project/Binocular_VO_Final/include -isystem /usr/include/eigen3 -isystem /usr/include/opencv  -std=c++14 -Wall -g -std=c++14 -O0 -fopenmp -pthread -fPIC   -o CMakeFiles/myslam.dir/frontend.cpp.o -c /home/libo/slam_work/final_project/Binocular_VO_Final/src/frontend.cpp",
+  "file": "/home/libo/slam_work/final_project/Binocular_VO_Final/src/frontend.cpp"
+},
+{
+  "directory": "/home/libo/slam_work/final_project/Binocular_VO_Final/build/src",
+  "command": "/usr/bin/g++  -DGFLAGS_IS_A_DLL=0 -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"x11\\\" -D_LINUX_ -Dmyslam_EXPORTS -I/usr/include/suitesparse -I/home/libo/slam_work/final_project/Binocular_VO_Final/include -isystem /usr/include/eigen3 -isystem /usr/include/opencv  -std=c++14 -Wall -g -std=c++14 -O0 -fopenmp -pthread -fPIC   -o CMakeFiles/myslam.dir/backend.cpp.o -c /home/libo/slam_work/final_project/Binocular_VO_Final/src/backend.cpp",
+  "file": "/home/libo/slam_work/final_project/Binocular_VO_Final/src/backend.cpp"
+},
+{
+  "directory": "/home/libo/slam_work/final_project/Binocular_VO_Final/build/src",
+  "command": "/usr/bin/g++  -DGFLAGS_IS_A_DLL=0 -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"x11\\\" -D_LINUX_ -Dmyslam_EXPORTS -I/usr/include/suitesparse -I/home/libo/slam_work/final_project/Binocular_VO_Final/include -isystem /usr/include/eigen3 -isystem /usr/include/opencv  -std=c++14 -Wall -g -std=c++14 -O0 -fopenmp -pthread -fPIC   -o CMakeFiles/myslam.dir/viewer.cpp.o -c /home/libo/slam_work/final_project/Binocular_VO_Final/src/viewer.cpp",
+  "file": "/home/libo/slam_work/final_project/Binocular_VO_Final/src/viewer.cpp"
+},
+{
+  "directory": "/home/libo/slam_work/final_project/Binocular_VO_Final/build/src",
+  "command": "/usr/bin/g++  -DGFLAGS_IS_A_DLL=0 -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"x11\\\" -D_LINUX_ -Dmyslam_EXPORTS -I/usr/include/suitesparse -I/home/libo/slam_work/final_project/Binocular_VO_Final/include -isystem /usr/include/eigen3 -isystem /usr/include/opencv  -std=c++14 -Wall -g -std=c++14 -O0 -fopenmp -pthread -fPIC   -o CMakeFiles/myslam.dir/visual_odometry.cpp.o -c /home/libo/slam_work/final_project/Binocular_VO_Final/src/visual_odometry.cpp",
+  "file": "/home/libo/slam_work/final_project/Binocular_VO_Final/src/visual_odometry.cpp"
+},
+{
+  "directory": "/home/libo/slam_work/final_project/Binocular_VO_Final/build/src",
+  "command": "/usr/bin/g++  -DGFLAGS_IS_A_DLL=0 -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"x11\\\" -D_LINUX_ -Dmyslam_EXPORTS -I/usr/include/suitesparse -I/home/libo/slam_work/final_project/Binocular_VO_Final/include -isystem /usr/include/eigen3 -isystem /usr/include/opencv  -std=c++14 -Wall -g -std=c++14 -O0 -fopenmp -pthread -fPIC   -o CMakeFiles/myslam.dir/dataset.cpp.o -c /home/libo/slam_work/final_project/Binocular_VO_Final/src/dataset.cpp",
+  "file": "/home/libo/slam_work/final_project/Binocular_VO_Final/src/dataset.cpp"
+},
+{
+  "directory": "/home/libo/slam_work/final_project/Binocular_VO_Final/build/app",
+  "command": "/usr/bin/g++  -DGFLAGS_IS_A_DLL=0 -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"x11\\\" -D_LINUX_ -I/usr/include/suitesparse -I/home/libo/slam_work/final_project/Binocular_VO_Final/include -isystem /usr/include/eigen3 -isystem /usr/include/opencv  -std=c++14 -Wall -g -std=c++14 -O0 -fopenmp -pthread   -o CMakeFiles/plot_traj.dir/traj_plot.cpp.o -c /home/libo/slam_work/final_project/Binocular_VO_Final/app/traj_plot.cpp",
+  "file": "/home/libo/slam_work/final_project/Binocular_VO_Final/app/traj_plot.cpp"
+},
+{
+  "directory": "/home/libo/slam_work/final_project/Binocular_VO_Final/build/app",
+  "command": "/usr/bin/g++  -DGFLAGS_IS_A_DLL=0 -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"x11\\\" -D_LINUX_ -I/usr/include/suitesparse -I/home/libo/slam_work/final_project/Binocular_VO_Final/include -isystem /usr/include/eigen3 -isystem /usr/include/opencv  -std=c++14 -Wall -g -std=c++14 -O0 -fopenmp -pthread   -o CMakeFiles/run_kitti_example.dir/run_kitti_example.cpp.o -c /home/libo/slam_work/final_project/Binocular_VO_Final/app/run_kitti_example.cpp",
+  "file": "/home/libo/slam_work/final_project/Binocular_VO_Final/app/run_kitti_example.cpp"
+}
+]

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/libo/slam_work/final_project/Binocular_VO_Final/app/traj_plot.cpp
+opencv2/opencv.hpp
+-
+vector
+-
+string
+-
+eigen3/Eigen/Core
+-
+pangolin/pangolin.h
+-
+unistd.h
+-
+fstream
+-
+sophus/se3.hpp
+-
+
