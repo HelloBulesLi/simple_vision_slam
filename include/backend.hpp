@@ -16,6 +16,9 @@
 
 namespace myslam {
 
+// Class Backend finish the sliding window of keyframes, this optimization
+// can't used in real time, only used for optimize the local trajectory
+
 class Backend {
 public:
     EIGEN_MAKE_ALIGNED_OPERATOR_NEW;

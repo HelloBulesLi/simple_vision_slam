@@ -9,6 +9,8 @@
 #include <opencv2/opencv.hpp>
 // #include "mappoint.hpp"
 
+// Class Feaure store a observed landmark info of a camera frame,
+// if it's a mappoint, an observation will add to mappoint
 namespace myslam {
 
 class Frame;

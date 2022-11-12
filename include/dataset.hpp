@@ -12,6 +12,7 @@ namespace myslam {
  */
 using namespace std;
 
+// Class Dataset finish the Camera init, read the Kitti Dataset from set path
 class Dataset {
 public:
     EIGEN_MAKE_ALIGNED_OPERATOR_NEW;

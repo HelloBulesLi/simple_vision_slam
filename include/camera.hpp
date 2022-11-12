@@ -11,6 +11,9 @@ namespace myslam {
 using namespace Eigen;
 using namespace std;
 
+// Class Camera complete the camera projection and unprojection:
+// 1. the transform between world coordinate frame and camera coordinate frame
+// 2. the transform between image plane coordinates and normalized image plane coordinates
 class Camera {
 public:
     EIGEN_MAKE_ALIGNED_OPERATOR_NEW;

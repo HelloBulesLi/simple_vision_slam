@@ -20,6 +20,11 @@ using namespace std;
 
 enum class Frontend_state {INIT_STATE,TRACK_GOOD, TRACK_BAD, TRACK_LOST};
 
+// Class Frontend's main function is:
+// 1. init map and track feature in lastframe
+// 2. get a pose estimate from tracked mappoint in current frame
+// 3. decide wether current frame is a keyframe
+// 4. add new observation to mappoint and detect new mappoint
 class Frontend {
 public:
     EIGEN_MAKE_ALIGNED_OPERATOR_NEW;

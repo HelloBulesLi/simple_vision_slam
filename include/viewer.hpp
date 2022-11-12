@@ -10,6 +10,8 @@
 
 namespace myslam {
 
+// Class Viewer used to show the local map and Keyframes's traj in Sliding Window
+
 class Viewer {
 public:
     EIGEN_MAKE_ALIGNED_OPERATOR_NEW;

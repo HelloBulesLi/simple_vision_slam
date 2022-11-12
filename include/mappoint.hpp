@@ -20,6 +20,8 @@ using namespace Eigen;
 
 class Feature;
 
+// Class Mappoint manage the all observed info of a mappoint in all camera frames
+
 class MapPoint {
 public:
     EIGEN_MAKE_ALIGNED_OPERATOR_NEW;
