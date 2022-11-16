@@ -45,5 +45,7 @@ a traj_result.txt file will generate after program run finished, use the plot_tr
 ***
 ## Test result
 
+the following img may not show, the traj result is store in traj_result directory
+
 ![Traj](traj_result/trajectory.png)
 
